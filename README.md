@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Hildah Gakuru</h1>
 <p align="center">
   💻 Android Developer | Database & Network Specialist | Tech Enthusiast  
