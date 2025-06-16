@@ -36,9 +36,9 @@ I thrive on growth, learning, and using technology to improve lives — especial
 
 ### 🚀 Highlight Projects
 
-- 📱 [CryptoDashboard App](https://github.com/your-username/crypto-dashboard) – Real-time crypto price tracker with dynamic charts
-- 🧑‍🌾 [Tea Farm Manager](https://github.com/your-username/tea-farm-manager) – Mobile platform for tea farmers to manage operations
-- 👥 [NGO Elder Support App](https://github.com/your-username/ngo-elderly-support-app) – Community chat and resource manager for elderly-focused NGOs
+- 📱 [CryptoDashboard App][(https://github.com/HildahWG/CryptoDashboard.git)] – Real-time crypto price tracker with dynamic charts
+- 🧑‍🌾 [Tea Farm Manager][(https://github.com/HildahWG/My_Application.git)] – Mobile platform for tea farmers to manage operations
+
 
 ---
 
@@ -54,8 +54,8 @@ I thrive on growth, learning, and using technology to improve lives — especial
 
 ### 🌐 Connect with Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 Email: your-email@example.com  
+- 🔗 [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/hildah-gakuru-a71a66277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BskFzAxcQSAaFuvNC3vkndg%3D%3D))
+- 📧 Email: Hildahgakuru852@gmail.com 
 - 💡 I’m always open to collaboration, feedback, or just tech talk!
 
 ---
