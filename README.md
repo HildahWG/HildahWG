@@ -42,12 +42,13 @@ I thrive on growth, learning, and using technology to improve lives — especial
 
 ---
 
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hildahgakuru&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hildahgakuru&theme=radical" />
 </p>
 
 ---
